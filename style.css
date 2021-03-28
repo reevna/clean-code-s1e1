@@ -13,7 +13,8 @@
 .header img {
     width: 100%;
 }
-.header .more-info {
+.header
+.more-info {
     font-family: fantasy, cursive;
 }
 @media (max-width:768px) {
@@ -38,10 +39,12 @@
     margin: 0;
     padding: 0px;
 }
-li, .heading {
+li,
+.heading {
     list-style: none;
 }
-input,button{
+input,
+button{
     outline: none;
 }
 button {
